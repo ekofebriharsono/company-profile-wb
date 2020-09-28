@@ -1571,17 +1571,17 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
+  background: #242222;;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
   padding: 20px 0;
-  color: #222222;
+  color: #ffffff;
   font-size: 14px;
 }
 
 #footer .credits {
   font-size: 13px;
   padding-top: 5px;
-  color: #222222;
+  color: #ffffff;
 }
 
 #footer .footer-links a {
