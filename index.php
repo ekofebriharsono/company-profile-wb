@@ -8,7 +8,14 @@
   <title>WB productions</title>
   <meta content="WB productions" name="description">
   <meta content="WB productions, not found, wb farm, paijo" name="keywords">
-  <meta name="theme-color" content="#242222" />
+
+  <meta name="theme-color" content="#f9ca0c" />
+  <meta name="description" content="Grow your bussiness with WB productions">
+  <meta property="og:site_name" content="WB productions">
+  <meta property="og:url" content="https://www.wb-productions.id/">
+  <meta property="og:image" content="https://www.wb-productions.id/assets/img/wb/logo_wb_bundar.png">
+  <meta name="robots" content="noodp,noydir">
+  <meta name="author" content="Eko Febri Harsono">
 
   <!-- Favicons -->
   <link href="assets/img/wb/logo_wb_bundar.png" rel="icon">
@@ -63,13 +70,13 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center section-bg">
+  <section id="hero" class="d-flex align-items-center">
 
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up"> Grow your business with WB productions</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are Team of All Talanted</h2>
+          <h2 data-aos="fade-up" data-aos-delay="400">We are Team of All Talent</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="https://s.id/WBproductions" target="_blank" class="btn-get-started scrollto">Contact Via WA</a>
           </div>
@@ -85,39 +92,39 @@
   <main id="main">
 
     <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients clients">
+    <section id="clients" class="clients clients">
       <div class="container">
 
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="zoom-in">
+            <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
+            <img src="assets/img/clients/wb_notfound.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300">
+            <img src="assets/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
+            <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/wb_farm.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="600">
           </div>
 
         </div>
 
       </div>
-    </section> -->
+    </section>
     <!-- End Clients Section -->
 
     <!-- ======= About Us Section ======= -->
@@ -125,26 +132,26 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
+          <h3>About Us</h3>
         </div>
 
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
             <p>
-            WB productions is a company from indonesian. this company just manages all of its subsidiaries. that is :
+            WB productions is a company from Indonesia. This company just manages all of its subsidiaries, that is :
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
                   <li><i class="ri-check-double-line"></i> DesPro</li>
-                  <li><i class="ri-check-double-line"></i> NotFounD.</li>
-                  <li><i class="ri-check-double-line"></i> WB.Farm</li>
+                  <li><i class="ri-check-double-line"></i> Not FounD.</li>
+                  <li><i class="ri-check-double-line"></i> WB Farm</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="ri-check-double-line"></i> WB.Snack</li>
-                  <li><i class="ri-check-double-line"></i> WB.Hijab</li>
+                  <li><i class="ri-check-double-line"></i> WB Snack</li>
+                  <li><i class="ri-check-double-line"></i> wb.hijb</li>
                   <li><i class="ri-check-double-line"></i> Paijo</li>
                 </ul>
               </div>
@@ -152,7 +159,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <p>
-            You can contact us via WhatsApp and email or go directly to our location. And we are ready to help your problems in the information technology sector
+            You can contact us via WhatsApp, email or go directly to our location. And we are ready to help your problems in the information technology sector.
             </p>
           </div>
         </div>
@@ -165,7 +172,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Team</h2>
+          <h3>Team</h3>
           <p>Chief & Lead of Company WB productions</p>
         </div>
 
@@ -245,7 +252,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Contact Us</h2>
+          <h3>Contact Us</h3>
         </div>
 
         <div class="row">

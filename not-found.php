@@ -5,13 +5,21 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Inner Page - Vesperr Bootstrap Template</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>WB productions</title>
+  <meta content="WB productions" name="description">
+  <meta content="WB productions, not found, wb farm, paijo" name="keywords">
+
+  <meta name="theme-color" content="#f9ca0c" />
+  <meta name="description" content="Grow your bussiness with WB productions">
+  <meta property="og:site_name" content="WB productions">
+  <meta property="og:url" content="https://www.wb-productions.id/">
+  <meta property="og:image" content="https://www.wb-productions.id/assets/img/wb/logo_wb_bundar.png">
+  <meta name="robots" content="noodp,noydir">
+  <meta name="author" content="Eko Febri Harsono">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/wb/logo_wb_bundar.png" rel="icon">
+  <link href="assets/img/wb/logo_wb_bundar.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -43,71 +51,34 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html"><span>Vesperr</span></a></h1>
+        <img src="assets/img/wb/logo_paten_transparan.png" alt="">
+        <!-- <h1 class="text-light"><a href="index.html"><span>WB productions</span></a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li class="active"><a href="#index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="#pricing">Pricing</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
-            </ul>
-          </li>
-          <li><a href="#contact">Contact</a></li>
-
-          <li class="get-started"><a href="#about">Get Started</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
-
     </div>
   </header><!-- End Header -->
 
-  <main id="main">
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
 
-    <!-- ======= Breadcrumbs Section ======= -->
-    <section class="breadcrumbs">
-      <div class="container">
-
-        <div class="d-flex justify-content-between align-items-center">
-          <h2>Inner Page</h2>
-          <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>Inner Page</li>
-          </ol>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1 data-aos="fade-up">404 | Not Found</h1>
+          <h2 data-aos="fade-up" data-aos-delay="400">Check Your Link, Sir!</h2>
+          <div data-aos="fade-up" data-aos-delay="800">
+            <a href="index.php" class="btn-get-started scrollto">Go Back Please</a>
+          </div>
         </div>
-
+        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
+          <img src="assets/img/wb/gambar-1.png" class="img-fluid animated" alt="">
+        </div>
       </div>
-    </section><!-- End Breadcrumbs Section -->
+    </div>
 
-    <section class="inner-page">
-      <div class="container">
-        <p>
-          Example inner page template
-        </p>
-      </div>
-    </section>
-
-  </main><!-- End #main -->
+  </section><!-- End Hero -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -115,23 +86,16 @@
       <div class="row d-flex align-items-center">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy; Copyright <strong>Vesperr</strong>. All Rights Reserved
+            &copy; Copyright <strong>WB productions</strong>. All Rights Reserved
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/vesperr-free-bootstrap-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Designed by <a href="https://bootstrapmade.com/" target="_blank" >BootstrapMade</a>, Image by <a href="https://www.freepik.com/free-vector/web-design-landing-page-template_5061659.htm#query=web-templates&position=22" target="_blank">pikisuperstar
           </div>
-        </div>
-        <div class="col-lg-6">
-          <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
-            <a href="#intro" class="scrollto">Home</a>
-            <a href="#about" class="scrollto">About</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Use</a>
-          </nav>
+          
         </div>
       </div>
     </div>

@@ -236,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav-toggle {
   position: fixed;
   right: 15px;
-  top: 15px;
+  top: 22px;
   z-index: 9998;
   border: 0;
   background: none;
@@ -484,15 +484,15 @@ section {
   padding-bottom: 30px;
 }
 
-.section-title h2 {
-  font-size: 32px;
+.section-title h3 {
+  font-size: 28px;
   font-weight: bold;
   text-transform: uppercase;
   position: relative;
   color: #c5c3c3;
 }
 
-.section-title h2::before, .section-title h2::after {
+.section-title h3::before, .section-title h3::after {
   content: '';
   width: 50px;
   height: 2px;
@@ -500,11 +500,11 @@ section {
   display: inline-block;
 }
 
-.section-title h2::before {
+.section-title h3::before {
   margin: 0 15px 10px 0;
 }
 
-.section-title h2::after {
+.section-title h3::after {
   margin: 0 0 10px 15px;
 }
 
@@ -516,7 +516,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f3f9fd;
+  background: #242222;
   padding: 10px 0;
   text-align: center;
 }
@@ -528,7 +528,7 @@ section {
 }
 
 .clients img {
-  width: 50%;
+  width: 65%;
   -webkit-filter: grayscale(100);
   filter: grayscale(100);
   transition: all 0.4s ease-in-out;
