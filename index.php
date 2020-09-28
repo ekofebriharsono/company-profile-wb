@@ -8,6 +8,7 @@
   <title>WB productions</title>
   <meta content="WB productions" name="description">
   <meta content="WB productions, not found, wb farm, paijo" name="keywords">
+  <meta name="theme-color" content="#242222" />
 
   <!-- Favicons -->
   <link href="assets/img/wb/logo_wb_bundar.png" rel="icon">
@@ -70,7 +71,7 @@
           <h1 data-aos="fade-up"> Grow your business with WB productions</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">We are Team of All Talanted</h2>
           <div data-aos="fade-up" data-aos-delay="800">
-            <a href="https://s.id/WBproductions" target="_blank" class="btn-get-started scrollto">Contact Us</a>
+            <a href="https://s.id/WBproductions" target="_blank" class="btn-get-started scrollto">Contact Via WA</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
