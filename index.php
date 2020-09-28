@@ -6,8 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>WB productions</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="WB productions" name="description">
+  <meta content="WB productions, not found, wb farm, paijo" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/wb/logo_wb_bundar.png" rel="icon">
