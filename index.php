@@ -69,7 +69,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up"> tes Grow your business with WB productions</h1>
+          <h1 data-aos="fade-up"> Grow your business with WB productions</h1>
           <h2 data-aos="fade-up" data-aos-delay="400">We are Team of All Talanted</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="#about" class="btn-get-started scrollto">Contact Us</a>
@@ -131,13 +131,24 @@
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
             <p>
-            WB productions is a freelance company from Indonesia. Our company is engaged in graphic design and programming. We give services via online and offline. For online services, you can contact us via :
+            WB productions is a company from indonesian. this company just manages all of its subsidiaries. that is :
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Fiverr</li>
-              <li><i class="ri-check-double-line"></i> Upwork</li>
-              <li><i class="ri-check-double-line"></i> Project.id</li>
-            </ul>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> DesPro</li>
+                  <li><i class="ri-check-double-line"></i> NotFounD.</li>
+                  <li><i class="ri-check-double-line"></i> WB.Farm</li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> WB.Snack</li>
+                  <li><i class="ri-check-double-line"></i> WB.Hijab</li>
+                  <li><i class="ri-check-double-line"></i> Paijo</li>
+                </ul>
+              </div>
+            </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <p>
