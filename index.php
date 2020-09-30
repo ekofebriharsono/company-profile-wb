@@ -11,9 +11,9 @@
 
   <meta name="theme-color" content="#f9ca0c" />
   <meta name="description" content="Grow your bussiness with WB productions">
-  <meta property="og:site_name" content="WB productions">
+  <!-- <meta property="og:site_name" content="WB productions"> -->
   <meta property="og:url" content="https://www.wb-productions.id/">
-  <meta property="og:image" content="https://www.wb-productions.id/assets/img/wb/logo_wb_bundar.png">
+  <meta property="og:image" content="https://www.wb-productions.id/assets/img/wb/logo_new.png">
   <meta name="robots" content="noodp,noydir">
   <meta name="author" content="Eko Febri Harsono">
 
