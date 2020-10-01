@@ -139,7 +139,7 @@ class SMTP
      *
      * @var string|callable|\Psr\Log\LoggerInterface
      */
-    public $Debugoutput = 'echo';
+    public $Debugoutput = ' ';
 
     /**
      * Whether to use VERP.
@@ -262,7 +262,7 @@ class SMTP
             return;
         }
         //Avoid clash with built-in function names
-        if (is_callable($this->Debugoutput) && !in_array($this->Debugoutput, ['error_log', 'html', 'echo'])) {
+        if (is_callable($this->Debugoutput) && !in_array($this->Debugoutput, ['error_log', 'html', ' '])) {
             call_user_func($this->Debugoutput, $str, $level);
 
             return;
@@ -274,28 +274,28 @@ class SMTP
                 break;
             case 'html':
                 //Cleans up output a bit for a better looking, HTML-safe output
-                echo gmdate('Y-m-d H:i:s'), ' ', htmlentities(
-                    preg_replace('/[\r\n]+/', '', $str),
-                    ENT_QUOTES,
-                    'UTF-8'
-                ), "<br>\n";
+                // echo gmdate('Y-m-d H:i:s'), ' ', htmlentities(
+                //     preg_replace('/[\r\n]+/', '', $str),
+                //     ENT_QUOTES,
+                //     'UTF-8'
+                // ), "<br>\n";
                 break;
             case 'echo':
             default:
                 //Normalize line breaks
                 $str = preg_replace('/\r\n|\r/m', "\n", $str);
-                echo gmdate('Y-m-d H:i:s'),
-                "\t",
-                    //Trim trailing space
-                trim(
-                    //Indent for readability, except for trailing break
-                    str_replace(
-                        "\n",
-                        "\n                   \t                  ",
-                        trim($str)
-                    )
-                ),
-                "\n";
+                // echo gmdate('Y-m-d H:i:s'),
+                // "\t",
+                //     //Trim trailing space
+                // trim(
+                //     //Indent for readability, except for trailing break
+                //     str_replace(
+                //         "\n",
+                //         "\n                   \t                  ",
+                //         trim($str)
+                //     )
+                // ),
+                // "\n";
         }
     }
 
@@ -1304,7 +1304,7 @@ class SMTP
      *
      * @param string|callable $method The name of the mechanism to use for debugging output, or a callable to handle it
      */
-    public function setDebugOutput($method = 'echo')
+    public function setDebugOutput($method = ' ')
     {
         $this->Debugoutput = $method;
     }
