@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>WB productions</title>
-  <meta content="WB productions" name="description">
+  <!-- <meta content="WB productions" name="description"> -->
   <meta content="WB productions, not found, wb farm, paijo" name="keywords">
 
   <meta name="theme-color" content="#f9ca0c" />
@@ -113,12 +113,12 @@
             <img src="assets/img/clients/wb_hijb.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6">
+          <!-- <div class="col-lg-2 col-md-4 col-6">
             <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-          </div>
+          </div> -->
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wb_farm.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="600">
+            <img src="assets/img/clients/wb_farm.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
           </div>
 
         </div>
