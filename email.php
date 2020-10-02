@@ -19,17 +19,17 @@ if (isset($_POST['email']) && isset($_POST['name']) && isset($_POST['message']))
     //Set this to true if SMTP host requires authentication to send email
     $mail->SMTPAuth = true;                          
     //Provide username and password     
-    $mail->Username = "zamil@wb-productions.id";                 
+    $mail->Username = "cs@wb-productions.id";                 
     $mail->Password = "Wbproductions2020";                           
     //If SMTP requires TLS encryption then set it
     $mail->SMTPSecure = "tls";                           
     //Set TCP port to connect to
     $mail->Port = 587;                                   
 
-    $mail->From = "zamil@wb-productions.id";
-    $mail->FromName = "Admin WB productions";
+    $mail->From = "cs@wb-productions.id";
+    $mail->FromName = "CS WB productions";
 
-    $mail->addAddress("admin@wb-productions.id", "zamil");
+    $mail->addAddress("admin@wb-productions.id", "Admin");
 
     $mail->isHTML(true);
 

@@ -1137,10 +1137,10 @@ section {
   padding: 25px 15px;
 }
 
-.team .member .member-info h4 {
+.team .member .member-info h6 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 12px;
   color: #222222;
 }
 
@@ -1323,7 +1323,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #fad852;
+  color: #000000;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1337,7 +1337,7 @@ section {
 
 .contact .social-links a:hover {
   background: #f9ca0e;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .contact .info {
@@ -1346,7 +1346,7 @@ section {
 
 .contact .info i {
   font-size: 32px;
-  color: #fad852;
+  color: #f9ca0e;
   float: left;
   line-height: 1;
 }

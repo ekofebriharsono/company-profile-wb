@@ -98,7 +98,7 @@
         <div class="row">
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
+            <img src="assets/img/clients/wb_despro.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
@@ -110,12 +110,12 @@
           </div>
 
           <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wb_hijb.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
+            <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400">
           </div>
 
-          <!-- <div class="col-lg-2 col-md-4 col-6">
-            <img src="assets/img/clients/wb_snack.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
-          </div> -->
+          <div class="col-lg-2 col-md-4 col-6">
+            <img src="assets/img/clients/wb_hijb.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
+          </div>
 
           <div class="col-lg-2 col-md-4 col-6">
             <img src="assets/img/clients/wb_farm.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500">
@@ -145,14 +145,14 @@
                 <ul>
                   <li><i class="ri-check-double-line"></i> DesPro</li>
                   <li><i class="ri-check-double-line"></i> Not FounD.</li>
-                  <li><i class="ri-check-double-line"></i> WB Farm</li>
+                  <li><i class="ri-check-double-line"></i> Paijo</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="ri-check-double-line"></i> WB Snack</li>
                   <li><i class="ri-check-double-line"></i> wb.hijb</li>
-                  <li><i class="ri-check-double-line"></i> Paijo</li>
+                  <li><i class="ri-check-double-line"></i> WB Farm</li>
                 </ul>
               </div>
             </div>
@@ -178,7 +178,7 @@
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/team/1.jpg" class="img-fluid" alt="">
@@ -188,13 +188,12 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Eko Febri Harsono</h4>
-                <span>Chief of WB productions</span>
+                <h6>Eko Febri Harsono</h6>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
                 <img src="assets/img/team/2.jpg" class="img-fluid" alt="">
@@ -204,29 +203,27 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Hafil Mashudi</h4>
-                <span>Lead of Design Graphic</span>
+                <h6>Hafil Mashudi</h6>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
                 <img src="assets/img/team/3.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="icofont-github"></i></a>
+                  <a href="https://github.com/zamiladhamaranugerahdwiyonarta" target="_blank" ><i class="icofont-github"></i></a>
                   <a href="https://instagram.com/zamil_adhamar?igshid=1o2viggh25g00" target="_blank"><i class="icofont-instagram"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Zamil Adhamar A.D.Y</h4>
-                <span>Lead of IT Support</span>
+                <h6>Zamil Adhamar A.D.Y</h6>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
               <div class="member-img">
                 <img src="assets/img/team/4.jpg" class="img-fluid" alt="">
@@ -236,8 +233,35 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Luchman AliSafik</h4>
-                <span>Lead of Service Support</span>
+                <h6>Luchman AliSafik</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/team/5.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-github"></i></a>
+                  <a href="https://www.instagram.com/tommy14045/" target="_blank"><i class="icofont-instagram"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h6>Arief Prasetyo U</h6>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/team/1.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="icofont-github"></i></a>
+                  <a href="https://www.instagram.com/nfadllh/?hl=id" target="_blank"><i class="icofont-instagram"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h6>Nurul Fadillah</h6>
               </div>
             </div>
           </div>
