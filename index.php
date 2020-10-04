@@ -6,12 +6,12 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>WB productions</title>
-  <!-- <meta content="WB productions" name="description"> -->
+  <meta content="WB productions" name="description">
   <meta content="WB productions, not found, wb farm, paijo" name="keywords">
 
   <meta name="theme-color" content="#f9ca0c" />
   <meta name="description" content="Grow your bussiness with WB productions">
-  <!-- <meta property="og:site_name" content="WB productions"> -->
+  <meta property="og:site_name" content="WB productions">
   <meta property="og:url" content="https://www.wb-productions.id/">
   <meta property="og:image" content="https://www.wb-productions.id/assets/img/wb/logo_new.png">
   <meta name="robots" content="noodp,noydir">
@@ -247,7 +247,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h6>Arief Prasetyo U</h6>
+                <h6>Arif Prasetiyo U</h6>
               </div>
             </div>
           </div>
@@ -301,7 +301,7 @@
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>admin@wb-productions.id</p>
+                <p>cs@wb-productions.id</p>
               </div>
 
               <div>
