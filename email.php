@@ -29,7 +29,7 @@ if (isset($_POST['email']) && isset($_POST['name']) && isset($_POST['message']))
     $mail->From = "cs@wb-productions.id";
     $mail->FromName = "CS WB productions";
 
-    $mail->addAddress("admin@wb-productions.id", "Admin");
+    $mail->addAddress("admin@wb-productions.id", "WB productions");
 
     $mail->isHTML(true);
 
